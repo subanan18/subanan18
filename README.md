@@ -106,12 +106,28 @@ Computer Science final-year project for discovering recipes from ingredients, in
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=subanan18&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subanan18&layout=compact&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subanan18&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&rank_icon=github" alt="Subanan's GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subanan18&theme=radical&hide_border=true" alt="Subanan's GitHub streak" />
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subanan18&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Subanan's most used languages" />
+
 </div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+[![Subanan's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=subanan18&theme=redical&hide_border=true&area=true&custom_title=Subanan%27s%20Contribution%20Graph)](https://github.com/subanan18)
+
+</div>
+
+> GitHub language statistics reflect public repository code and do not represent overall skill level.
 
 ---
 
