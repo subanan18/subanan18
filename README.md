@@ -110,24 +110,16 @@ Computer Science final-year project for discovering recipes from ingredients, in
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subanan18&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&rank_icon=github" alt="Subanan's GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subanan18&theme=radical&hide_border=true" alt="Subanan's GitHub streak" />
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subanan18&theme=radical)
 
-<br/>
+![GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subanan18&theme=radical)
+![Most-used languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subanan18&theme=radical)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subanan18&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Subanan's most used languages" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-[![Subanan's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=subanan18&theme=redical&hide_border=true&area=true&custom_title=Subanan%27s%20Contribution%20Graph)](https://github.com/subanan18)
+![Commits by hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subanan18&theme=radical&utcOffset=1)
 
 </div>
 
-> GitHub language statistics reflect public repository code and do not represent overall skill level.
+> These cards update automatically from public GitHub activity. Language statistics show repository code, not overall skill level.
 
 ---
 
