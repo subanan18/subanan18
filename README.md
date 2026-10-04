@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Subanan Subathevan
+# 👋 Hi, I'm Subanan Subathevan AMBCS
 
-### Junior Software Engineer • Python • FastAPI • React • Realtime Systems • Applied AI
+### Software Engineer • Full-Stack Developer • Python • React • FastAPI • Applied AI
 
-**Building practical software, realtime applications and intelligent business systems.**
+**3+ years of combined software development experience across freelance, client, part-time and project-based work.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://subanan18.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subanan-subathevan-9087321bb)
 [![GitHub](https://img.shields.io/badge/GitHub-subanan18-181717?style=for-the-badge&logo=github)](https://github.com/subanan18)
 ![Profile Views](https://komarev.com/ghpvc/?username=subanan18&style=for-the-badge)
 
@@ -14,99 +15,147 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
-- 🎓 **First Class Honours BSc Computer Science**, Middlesex University London
-- 🐍 **PCEP – Certified Entry-Level Python Programmer**
-- 💻 Building with **Python, FastAPI, React, PostgreSQL, REST APIs and WebSockets**
-- 🤖 Interested in **AI agents, LLM applications, RAG, voice AI and intelligent automation**
-- 🧪 Focused on clean architecture, testing, secure configuration and production-quality delivery
-- 🔎 Open to **Junior Software Developer / Graduate Software Engineer / Python-focused roles**
+I am a **Software Engineer and Full-Stack Developer** building production-focused web applications, Python backends, React frontends and AI-enabled software.
+
+My experience spans **freelance development, client delivery, part-time software work and project-based engineering**, with hands-on involvement from requirements gathering and technical design through implementation, database/API integration, testing, debugging and deployment.
+
+- 💼 **Freelance AI Agent & Software Developer** — self-employed, 2024–present
+- 🎓 **BSc (Hons) Computer Science — First Class Honours**, Middlesex University London
+- 🏅 **BCS Associate Member (AMBCS)**
+- ☁️ **Microsoft Azure Fundamentals (AZ-900)**
+- 🐍 **PCEP — Certified Entry-Level Python Programmer**
+- 📍 Based in **London, United Kingdom**
+- 🔎 Open to **Software Engineer, Python Developer, Full-Stack Developer and AI-focused opportunities**
 
 ---
 
-# 🌟 Featured Engineering Projects
+## 🚀 What I Build
 
-## 📦 Depot Storage CRM
+- Full-stack web applications using **React.js, Python, FastAPI and Node.js**
+- REST APIs and database-backed systems using **PostgreSQL, MySQL and MongoDB**
+- AI-enabled applications, agentic workflows and voice-assistant systems
+- Client-facing responsive websites and production deployments
+- Automation scripts that reduce repetitive manual workflows
+- Firebase applications using Authentication, Firestore and Hosting
+- API integrations, asynchronous data flows and realtime application features
 
-Full-stack storage and asset-tracking system with business workflows for companies, projects, stored items, movement auditing and retrieval/delivery operations.
+---
 
-**Engineering:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `React` `Docker` `WebSockets`
+# 🌟 Featured Software Projects
+
+## 📦 Storage CRM Platform — AI Integration In Progress
+
+A full-stack CRM platform for storage and asset workflows with a React frontend, FastAPI/Python backend and PostgreSQL data layer. The system supports customer, project, item, movement and retrieval workflows, with AI-assisted search and retrieval capabilities under development.
+
+**Stack:** `Python` `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `Alembic` `REST APIs`
 
 [![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://github.com/subanan18/storage-crm-backend)
 [![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/subanan18/depot-crm-frontend)
 
 ---
 
-## ⚡ Realtime Collaborative Task Board
+## 🤖 JARVIS Desktop AI Assistant
 
-A FastAPI + WebSocket backend where multiple clients can collaborate in the same workspace and receive task changes instantly without polling.
+A Python desktop voice assistant with wake-word activation, realtime voice interaction, local memory, safe desktop tools and assistant-style automation workflows.
 
-**Demonstrates:** async Python • WebSocket connection management • event fan-out • REST + realtime architecture • typed models • integration tests
-
-[![View Code](https://img.shields.io/badge/View_Code-Realtime_Board-181717?style=for-the-badge&logo=github)](https://github.com/subanan18/subanan18.github.io/tree/main/projects/realtime-collab-board)
-
----
-
-## 🧠 Support Triage API
-
-An explainable support-ticket classification service with typed contracts, confidence scoring, batch processing and a pluggable service layer designed for future LLM-provider integration.
-
-**Demonstrates:** service architecture • FastAPI • Pydantic • async batch processing • explainable classification • automated tests
-
-[![View Code](https://img.shields.io/badge/View_Code-Support_Triage-181717?style=for-the-badge&logo=github)](https://github.com/subanan18/subanan18.github.io/tree/main/projects/ai-support-triage)
-
----
-
-## 🤖 JARVIS AI Desktop Assistant
-
-A voice-first Python assistant project exploring realtime conversational AI, wake-word activation, agent-style tools and desktop automation.
-
-**Engineering:** `Python` `FastAPI` `WebSockets` `LiveKit` `OpenWakeWord` `Realtime AI`
+**Stack:** `Python` `LiveKit` `OpenWakeWord` `Realtime AI` `Automation`
 
 [![Explore JARVIS](https://img.shields.io/badge/Explore_JARVIS-181717?style=for-the-badge&logo=github)](https://github.com/subanan18/jarvis-ai-assistant)
 
 ---
 
-## 🍳 cookAI — Intelligent Recipe Generator
+## 🍳 cookAI Recipe Generator
 
-Computer Science final-year project for discovering recipes from ingredients, including image-based ingredient recognition, dietary/allergen filtering and API integration.
+My Computer Science final-year project: an AI-assisted recipe application with image-based ingredient recognition, dietary filtering, missing-ingredient suggestions and third-party recipe API integration.
 
-**Technologies:** `React` `React Native` `Google Vision` `Edamam API` `JavaScript`
+**Stack:** `React Native` `Expo` `JavaScript` `Axios` `Cheerio` `Edamam API` `Google Vision`
 
 [![Explore cookAI](https://img.shields.io/badge/Explore_cookAI-181717?style=for-the-badge&logo=github)](https://github.com/subanan18/cookai-recipe-generator)
 
 ---
 
-## 🛠️ Core Stack
+## 💍 Wedding Invitation & RSVP Web App
 
-**Languages:** Python • JavaScript • Java • SQL • HTML • CSS  
-**Backend:** FastAPI • Node.js • Express • REST APIs • WebSockets  
-**Frontend:** React.js • Tailwind CSS • Bootstrap  
-**Data:** PostgreSQL • MySQL • MongoDB  
-**Tools:** Git • GitHub • Docker • Firebase • Postman • VS Code  
-**AI interests:** AI Agents • RAG • LLM Applications • Voice AI • Tool Calling
+A responsive client application with RSVP storage, authentication, admin search/delete tools, maps and a mobile-first interface.
+
+**Stack:** `Firebase Hosting` `Firestore` `Firebase Authentication` `JavaScript` `Responsive UI`
 
 ---
 
-## 🧪 Engineering Practices
+## ⚽ FIFA 2026 Live Scores
 
-`Typed API contracts` • `Automated tests` • `Async Python` • `Environment-based configuration` • `API documentation` • `Database migrations` • `Docker` • `Git/GitHub workflows`
+A live sports-score web application demonstrating asynchronous API integration, dynamic UI updates and frontend-to-API data flows.
+
+**Stack:** `React` `JavaScript` `Realtime API` `Async Data Handling`
+
+[![View Project](https://img.shields.io/badge/View_Project-FIFA_2026-181717?style=for-the-badge&logo=github)](https://github.com/subanan18/fifa-2026-live-scores)
 
 ---
 
-## 🎓 Certification & Current Learning
+## 🌐 Personal Portfolio
 
-| Status | Certification / Area |
+A responsive portfolio website showcasing software projects, technical capabilities and end-to-end product delivery.
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel)](https://subanan18.github.io/)
+
+---
+
+## 🛠️ Technical Skills
+
+| Area | Technologies |
 |---|---|
-| ✅ Certified | **PCEP – Certified Entry-Level Python Programmer** |
-| 📚 Learning | **PCAP – Python Associate-level skills** |
-| 🧠 Learning | **AI Agents & LLM Application Development** |
-| 🔍 Exploring | **RAG, realtime architectures & scalable backend systems** |
+| **Languages** | Python, JavaScript (ES6+), Java, PHP, HTML5, CSS3 |
+| **Frontend** | React.js, React Native, Tailwind CSS, Bootstrap, responsive web development |
+| **Backend & APIs** | FastAPI, Node.js, REST APIs, API integration |
+| **Databases** | PostgreSQL, MySQL, MongoDB, SQL |
+| **Testing & Quality** | Jest, Cypress, JUnit, Mockito, unit testing, automation testing, debugging |
+| **AI & Automation** | AI APIs, prompt engineering, agentic AI, voice AI, Python automation |
+| **Cloud & Tools** | Azure fundamentals, Firebase, Git, GitHub, Figma |
+| **Practices** | Agile/Scrum, requirements gathering, system design, testing, deployment, UI/UX |
+
+**Currently expanding:** Django • GraphQL • AI Agents • RAG • LLM Application Development
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience Snapshot
+
+### Freelance AI Agent & Software Developer
+**Self-Employed | 2024–Present**
+
+Designing, building and deploying full-stack and AI-enabled client solutions using Python, FastAPI, React.js, Node.js, Firebase, PostgreSQL, MongoDB and REST APIs.
+
+### Frontend Developer
+**One Stop Stores Ltd | Part-time | 2024–Present**
+
+Working with React.js, Python automation, REST API integrations, debugging, reusable components and frontend performance improvements.
+
+### Web Developer
+**DSP Construction Ltd | Part-time | 2023–2025**
+
+Developed and maintained web applications using React, JavaScript and Python while automating repetitive content and data workflows.
+
+### Cable Management & Network Technician
+**Middlesex University | Part-time | 2022–2023**
+
+Applied Python scripting, network monitoring, structured troubleshooting and infrastructure support.
+
+---
+
+## 🎓 Education & Credentials
+
+| Credential | Status |
+|---|---|
+| **BSc (Hons) Computer Science — First Class Honours** | ✅ Middlesex University London |
+| **BCS Associate Member (AMBCS)** | ✅ BCS, The Chartered Institute for IT |
+| **Microsoft Azure Fundamentals (AZ-900)** | ✅ Certified |
+| **PCEP — Certified Entry-Level Python Programmer** | ✅ Python Institute |
+| **Figma Essential Training** | ✅ Completed |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -119,16 +168,17 @@ Computer Science final-year project for discovering recipes from ingredients, in
 
 </div>
 
-> These cards update automatically from public GitHub activity. Language statistics show repository code, not overall skill level.
+> GitHub statistics reflect public repository activity and are only one part of my software development experience.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities involving **Python, backend engineering, full-stack systems, realtime applications and applied AI**.
+I am interested in opportunities involving **Python, full-stack development, backend engineering, applied AI, automation and production web applications**.
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subanan_Subathevan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subanan-subathevan-9087321bb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=vercel)](https://subanan18.github.io/)
 
 ### Build. Test. Ship. Improve. 🚀
